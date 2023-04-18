@@ -844,13 +844,16 @@ h3 {
     }
     .left-menu {
         margin-left: 0;
+        margin-right: 0px;
         padding-left: 16px;
         gap: 41px;
     }
    
    .right-menu {
+        gap: 0px;
+        margin: 0px;
         padding-left: 200px;
-        padding-right: 16px;
+        padding-right: 26px;
     }
     .hidden {
         display: none;
